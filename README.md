@@ -1,4 +1,4 @@
-## Data Dictionary / Documentation Tools
+# Data Dictionary / Documentation Tools
 
 This folder contains SQL Server scripts for generating human-readable data dictionaries from database metadata and extended properties.
 
